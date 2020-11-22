@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MessageShareApp</string>
+    <string name="show_toast">SHOW TOAST</string>
+    <string name="send_data">SEND DATA TO NEXT ACTIVITY</string>
+    <string name="share_to_other">SHARE TO OTHER APPS</string>
+    <string name="et_userMessage">Enter your message</string>
+    <string name="btnRecyclerView">Recycler View Demo</string>
+    <string name="tv_Titlle">Tittle</string>
+    <string name="textView">TextView</string>
+    <string name="text_clicked">Clicked !</string>
+    <string name="btn_was_clicked">The button was clicked</string>
+    <string name="text_share_to">Share to: </string>
+</resources>
